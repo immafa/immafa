@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hello World, I'm mafa, Be welcome to my profile!!!
 
-<!--
-**immafa/immafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+<a>"That Love is all there is, Is all we know of love" - Emily Dickinson</a>
+</div><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ <table>
+   <tr>
+     <td>
+       <img src="https://media1.tenor.com/m/NdQqMG4jGu4AAAAC/emisue.gif")
+      </td>
+        <td>
+         <img src="https://media1.tenor.com/m/DNi67V2Qz_IAAAAC/dickinson-emisue.gif">
+       </td>
+        <td>
+         <img src="https://media1.tenor.com/m/oCnTULk2mQIAAAAC/hailee-steinfeld-hailee.gif">
+       </td>
+    </tr>
+ </table>
+
+
+
+
+
+
+
